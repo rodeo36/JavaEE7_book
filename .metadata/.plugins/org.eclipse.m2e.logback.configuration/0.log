@@ -1,0 +1,596 @@
+2017-02-25 17:49:18,660 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-03-01 20:49:12,328 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-failsafe-plugin/2.16/maven-failsafe-plugin-2.16.pom
+2017-03-01 20:49:12,495 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-failsafe-plugin/2.16/maven-failsafe-plugin-2.16.pom
+2017-03-01 20:49:12,654 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.16/surefire-2.16.pom
+2017-03-01 20:49:12,841 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.16/surefire-2.16.pom
+2017-03-01 20:49:13,225 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-failsafe-plugin/2.16/maven-failsafe-plugin-2.16.jar
+2017-03-01 20:49:13,374 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-failsafe-plugin/2.16/maven-failsafe-plugin-2.16.jar
+2017-03-01 20:49:14,130 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:parent:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\pom.xml.
+2017-03-01 20:49:14,180 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter02:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter02\pom.xml.
+2017-03-01 20:49:16,201 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.16/maven-surefire-plugin-2.16.jar
+2017-03-01 20:49:16,438 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.16/maven-surefire-plugin-2.16.jar
+2017-03-01 20:49:16,756 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2017-03-01 20:49:17,119 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2017-03-01 20:49:34,504 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter02:chapter02-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter02\chapter02-samples\pom.xml.
+2017-03-01 20:49:34,731 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/se/weld-se/2.3.2.Final/weld-se-2.3.2.Final.pom
+2017-03-01 20:49:34,802 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/se/weld-se/2.3.2.Final/weld-se-2.3.2.Final.pom
+2017-03-01 20:49:34,895 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/weld-core-parent/2.3.2.Final/weld-core-parent-2.3.2.Final.pom
+2017-03-01 20:49:35,038 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/weld-core-parent/2.3.2.Final/weld-core-parent-2.3.2.Final.pom
+2017-03-01 20:49:35,110 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/33/weld-parent-33.pom
+2017-03-01 20:49:35,218 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/33/weld-parent-33.pom
+2017-03-01 20:49:35,291 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/weld-api-bom/2.3.Final/weld-api-bom-2.3.Final.pom
+2017-03-01 20:49:35,367 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/weld-api-bom/2.3.Final/weld-api-bom-2.3.Final.pom
+2017-03-01 20:49:35,474 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.jpa/2.6.2/org.eclipse.persistence.jpa-2.6.2.pom
+2017-03-01 20:49:35,545 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.jpa/2.6.2/org.eclipse.persistence.jpa-2.6.2.pom
+2017-03-01 20:49:35,614 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.1.1/javax.persistence-2.1.1.pom
+2017-03-01 20:49:35,716 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.1.1/javax.persistence-2.1.1.pom
+2017-03-01 20:49:35,789 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/2.6.2/org.eclipse.persistence.asm-2.6.2.pom
+2017-03-01 20:49:35,862 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/2.6.2/org.eclipse.persistence.asm-2.6.2.pom
+2017-03-01 20:49:35,934 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.antlr/2.6.2/org.eclipse.persistence.antlr-2.6.2.pom
+2017-03-01 20:49:36,031 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.antlr/2.6.2/org.eclipse.persistence.antlr-2.6.2.pom
+2017-03-01 20:49:36,480 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.jpa.jpql/2.6.2/org.eclipse.persistence.jpa.jpql-2.6.2.pom
+2017-03-01 20:49:36,665 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.jpa.jpql/2.6.2/org.eclipse.persistence.jpa.jpql-2.6.2.pom
+2017-03-01 20:49:36,733 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/2.6.2/org.eclipse.persistence.core-2.6.2.pom
+2017-03-01 20:49:36,827 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/2.6.2/org.eclipse.persistence.core-2.6.2.pom
+2017-03-01 20:49:36,917 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/javaee-api/7.0/javaee-api-7.0.pom
+2017-03-01 20:49:37,038 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/javaee-api/7.0/javaee-api-7.0.pom
+2017-03-01 20:49:37,155 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.5.0/javax.mail-1.5.0.pom
+2017-03-01 20:49:37,226 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.5.0/javax.mail-1.5.0.pom
+2017-03-01 20:49:37,295 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/all/1.5.0/all-1.5.0.pom
+2017-03-01 20:49:37,427 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/all/1.5.0/all-1.5.0.pom
+2017-03-01 20:49:37,613 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.pom
+2017-03-01 20:49:37,726 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.pom
+2017-03-01 20:49:37,806 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/derby/derby-project/10.10.1.1/derby-project-10.10.1.1.pom
+2017-03-01 20:49:37,879 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/derby/derby-project/10.10.1.1/derby-project-10.10.1.1.pom
+2017-03-01 20:49:38,100 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2017-03-01 20:49:38,164 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2017-03-01 20:49:38,484 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/se/weld-se/2.3.2.Final/weld-se-2.3.2.Final.jar
+2017-03-01 20:49:43,682 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/se/weld-se/2.3.2.Final/weld-se-2.3.2.Final.jar
+2017-03-01 20:49:43,745 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.jpa/2.6.2/org.eclipse.persistence.jpa-2.6.2.jar
+2017-03-01 20:49:45,371 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.jpa/2.6.2/org.eclipse.persistence.jpa-2.6.2.jar
+2017-03-01 20:49:45,420 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.1.1/javax.persistence-2.1.1.jar
+2017-03-01 20:49:45,643 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.1.1/javax.persistence-2.1.1.jar
+2017-03-01 20:49:45,695 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/2.6.2/org.eclipse.persistence.asm-2.6.2.jar
+2017-03-01 20:49:46,111 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/2.6.2/org.eclipse.persistence.asm-2.6.2.jar
+2017-03-01 20:49:46,162 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.antlr/2.6.2/org.eclipse.persistence.antlr-2.6.2.jar
+2017-03-01 20:49:46,428 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.antlr/2.6.2/org.eclipse.persistence.antlr-2.6.2.jar
+2017-03-01 20:49:46,484 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.jpa.jpql/2.6.2/org.eclipse.persistence.jpa.jpql-2.6.2.jar
+2017-03-01 20:49:48,132 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.jpa.jpql/2.6.2/org.eclipse.persistence.jpa.jpql-2.6.2.jar
+2017-03-01 20:49:48,172 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/2.6.2/org.eclipse.persistence.core-2.6.2.jar
+2017-03-01 20:49:54,245 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/2.6.2/org.eclipse.persistence.core-2.6.2.jar
+2017-03-01 20:49:54,291 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/javaee-api/7.0/javaee-api-7.0.jar
+2017-03-01 20:49:56,459 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/javaee-api/7.0/javaee-api-7.0.jar
+2017-03-01 20:49:56,505 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.5.0/javax.mail-1.5.0.jar
+2017-03-01 20:49:57,122 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.5.0/javax.mail-1.5.0.jar
+2017-03-01 20:49:57,178 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+2017-03-01 20:50:00,598 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+2017-03-01 20:50:00,643 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2017-03-01 20:50:00,973 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2017-03-01 20:50:04,421 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.2.1/exec-maven-plugin-1.2.1.pom
+2017-03-01 20:50:04,493 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.2.1/exec-maven-plugin-1.2.1.pom
+2017-03-01 20:50:04,561 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/28/mojo-parent-28.pom
+2017-03-01 20:50:04,643 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/28/mojo-parent-28.pom
+2017-03-01 20:50:04,714 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/3/codehaus-parent-3.pom
+2017-03-01 20:50:04,783 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/3/codehaus-parent-3.pom
+2017-03-01 20:50:04,848 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.2.1/exec-maven-plugin-1.2.1.jar
+2017-03-01 20:50:05,122 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.2.1/exec-maven-plugin-1.2.1.jar
+2017-03-01 20:50:05,618 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter02:chapter02-putting-together:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter02\chapter02-putting-together\pom.xml.
+2017-03-01 20:50:05,641 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter03:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter03\pom.xml.
+2017-03-01 20:50:05,909 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter03:chapter03-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter03\chapter03-samples\pom.xml.
+2017-03-01 20:50:05,989 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.1.2.Final/hibernate-validator-5.1.2.Final.pom
+2017-03-01 20:50:06,062 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.1.2.Final/hibernate-validator-5.1.2.Final.pom
+2017-03-01 20:50:06,140 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.1.2.Final/hibernate-validator-parent-5.1.2.Final.pom
+2017-03-01 20:50:06,234 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.1.2.Final/hibernate-validator-parent-5.1.2.Final.pom
+2017-03-01 20:50:06,363 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2017-03-01 20:50:06,477 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2017-03-01 20:50:06,556 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2017-03-01 20:50:06,619 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2017-03-01 20:50:06,691 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2017-03-01 20:50:06,770 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2017-03-01 20:50:06,894 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2017-03-01 20:50:06,953 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2017-03-01 20:50:07,149 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.pom
+2017-03-01 20:50:07,258 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.pom
+2017-03-01 20:50:07,352 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/9/jboss-parent-9.pom
+2017-03-01 20:50:07,451 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/9/jboss-parent-9.pom
+2017-03-01 20:50:07,563 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.0.0/classmate-1.0.0.pom
+2017-03-01 20:50:07,675 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.0.0/classmate-1.0.0.pom
+2017-03-01 20:50:07,871 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/javax.el/3.0.1-b03/javax.el-3.0.1-b03.pom
+2017-03-01 20:50:08,067 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/javax.el/3.0.1-b03/javax.el-3.0.1-b03.pom
+2017-03-01 20:50:08,234 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.1.2.Final/hibernate-validator-5.1.2.Final.jar
+2017-03-01 20:50:09,266 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.1.2.Final/hibernate-validator-5.1.2.Final.jar
+2017-03-01 20:50:09,313 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar
+2017-03-01 20:50:09,421 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar
+2017-03-01 20:50:09,468 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar
+2017-03-01 20:50:09,566 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar
+2017-03-01 20:50:09,613 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/javax.el/3.0.1-b03/javax.el-3.0.1-b03.jar
+2017-03-01 20:50:09,897 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/javax.el/3.0.1-b03/javax.el-3.0.1-b03.jar
+2017-03-01 20:50:11,108 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter03:chapter03-putting-together:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter03\chapter03-putting-together\pom.xml.
+2017-03-01 20:50:11,155 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter04:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter04\pom.xml.
+2017-03-01 20:50:11,467 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter04-putting-together:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter04\chapter04-putting-together\pom.xml.
+2017-03-01 20:50:11,515 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/derby/derbyclient/10.10.1.1/derbyclient-10.10.1.1.pom
+2017-03-01 20:50:11,662 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/derby/derbyclient/10.10.1.1/derbyclient-10.10.1.1.pom
+2017-03-01 20:50:11,756 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/derby/derbyclient/10.10.1.1/derbyclient-10.10.1.1.jar
+2017-03-01 20:50:12,452 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/derby/derbyclient/10.10.1.1/derbyclient-10.10.1.1.jar
+2017-03-01 20:50:12,699 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter05:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter05\pom.xml.
+2017-03-01 20:50:12,953 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter05:chapter05-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter05\chapter05-samples\pom.xml.
+2017-03-01 20:50:12,983 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter06:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter06\pom.xml.
+2017-03-01 20:50:13,075 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bsc/maven/maven-processor-plugin/2.2.4/maven-processor-plugin-2.2.4.jar
+2017-03-01 20:50:13,333 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bsc/maven/maven-processor-plugin/2.2.4/maven-processor-plugin-2.2.4.jar
+2017-03-01 20:50:13,801 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter06:chapter06-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter06\chapter06-samples\pom.xml.
+2017-03-01 20:50:13,885 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.jpa.modelgen.processor/2.6.2/org.eclipse.persistence.jpa.modelgen.processor-2.6.2.pom
+2017-03-01 20:50:13,965 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.jpa.modelgen.processor/2.6.2/org.eclipse.persistence.jpa.modelgen.processor-2.6.2.pom
+2017-03-01 20:50:14,056 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.jpa.modelgen.processor/2.6.2/org.eclipse.persistence.jpa.modelgen.processor-2.6.2.jar
+2017-03-01 20:50:14,189 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.jpa.modelgen.processor/2.6.2/org.eclipse.persistence.jpa.modelgen.processor-2.6.2.jar
+2017-03-01 20:50:14,393 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter07:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter07\pom.xml.
+2017-03-01 20:50:14,561 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.4/maven-war-plugin-2.4.jar
+2017-03-01 20:50:14,730 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.4/maven-war-plugin-2.4.jar
+2017-03-01 20:50:15,339 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter07:chapter07-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter07\chapter07-samples\pom.xml.
+2017-03-01 20:50:15,394 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/fish/payara/extras/payara-embedded-all/4.1.1.162/payara-embedded-all-4.1.1.162.pom
+2017-03-01 20:50:15,471 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/fish/payara/extras/payara-embedded-all/4.1.1.162/payara-embedded-all-4.1.1.162.pom
+2017-03-01 20:50:17,858 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/fish/payara/extras/payara-embedded-all/4.1.1.162/payara-embedded-all-4.1.1.162.jar
+2017-03-01 20:52:22,287 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/fish/payara/extras/payara-embedded-all/4.1.1.162/payara-embedded-all-4.1.1.162.jar
+2017-03-01 20:52:23,101 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter08:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\pom.xml.
+2017-03-01 20:52:23,344 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter08:chapter08-consumer:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-consumer\pom.xml.
+2017-03-01 20:52:23,542 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter08:chapter08-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-samples\pom.xml.
+2017-03-01 20:52:23,754 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter08:chapter08-service:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-service\pom.xml.
+2017-03-01 20:52:23,771 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter09:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter09\pom.xml.
+2017-03-01 20:52:23,966 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter09:chapter09-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter09\chapter09-samples\pom.xml.
+2017-03-01 20:52:23,982 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter10:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter10\pom.xml.
+2017-03-01 20:52:24,178 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter10:chapter10-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter10\chapter10-samples\pom.xml.
+2017-03-01 20:52:24,190 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter11:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\pom.xml.
+2017-03-01 20:52:24,379 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter11:chapter11-putting-together:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\chapter11-putting-together\pom.xml.
+2017-03-01 20:52:24,566 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter11:chapter11-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\chapter11-samples\pom.xml.
+2017-03-01 20:52:24,577 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter12:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\pom.xml.
+2017-03-01 20:52:24,770 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter12:chapter12-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\chapter12-samples\pom.xml.
+2017-03-01 20:52:24,808 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/saxon/saxon/8.7/saxon-8.7.pom
+2017-03-01 20:52:24,874 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/saxon/saxon/8.7/saxon-8.7.pom
+2017-03-01 20:52:24,956 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/saxon/saxon/8.7/saxon-8.7.jar
+2017-03-01 20:52:29,488 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/saxon/saxon/8.7/saxon-8.7.jar
+2017-03-01 20:52:30,133 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter12:chapter12-putting-together:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\chapter12-putting-together\pom.xml.
+2017-03-01 20:52:30,150 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter13:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\pom.xml.
+2017-03-01 20:52:30,356 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter13:chapter13-mdb:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-mdb\pom.xml.
+2017-03-01 20:52:30,543 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter13:chapter13-se:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-se\pom.xml.
+2017-03-01 20:52:30,733 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter13:chapter13-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-samples\pom.xml.
+2017-03-01 20:52:30,745 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter14:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\pom.xml.
+2017-03-01 20:52:30,805 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/jaxws-maven-plugin/2.2/jaxws-maven-plugin-2.2.pom
+2017-03-01 20:52:30,912 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/jaxws-maven-plugin/2.2/jaxws-maven-plugin-2.2.pom
+2017-03-01 20:52:30,981 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/pom/1.3/pom-1.3.pom
+2017-03-01 20:52:31,059 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/pom/1.3/pom-1.3.pom
+2017-03-01 20:52:31,139 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/jaxws-maven-plugin/2.2/jaxws-maven-plugin-2.2.jar
+2017-03-01 20:52:31,414 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/jaxws-maven-plugin/2.2/jaxws-maven-plugin-2.2.jar
+2017-03-01 20:52:31,868 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter14:chapter14-consumer:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-consumer\pom.xml.
+2017-03-01 20:52:32,087 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter14:chapter14-ejb:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-ejb\pom.xml.
+2017-03-01 20:52:32,300 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter14:chapter14-service:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-service\pom.xml.
+2017-03-01 20:52:32,492 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter14:chapter14-wsdl:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-wsdl\pom.xml.
+2017-03-01 20:52:32,529 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.pom
+2017-03-01 20:52:32,661 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.pom
+2017-03-01 20:52:32,751 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.jar
+2017-03-01 20:52:34,599 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.jar
+2017-03-01 20:52:34,857 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter15:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\pom.xml.
+2017-03-01 20:52:35,053 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter15:chapter15-consumer:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-consumer\pom.xml.
+2017-03-01 20:52:35,148 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.22.2/jersey-common-2.22.2.pom
+2017-03-01 20:52:35,251 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.22.2/jersey-common-2.22.2.pom
+2017-03-01 20:52:35,321 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/project/2.22.2/project-2.22.2.pom
+2017-03-01 20:52:35,513 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/project/2.22.2/project-2.22.2.pom
+2017-03-01 20:52:36,093 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.22.2/jersey-guava-2.22.2.pom
+2017-03-01 20:52:36,184 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.22.2/jersey-guava-2.22.2.pom
+2017-03-01 20:52:36,261 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/project/2.22.2/project-2.22.2.pom
+2017-03-01 20:52:36,339 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/project/2.22.2/project-2.22.2.pom
+2017-03-01 20:52:36,406 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/project/2.22.2/project-2.22.2.pom
+2017-03-01 20:52:36,476 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/project/2.22.2/project-2.22.2.pom
+2017-03-01 20:52:37,449 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.22.2/jersey-client-2.22.2.pom
+2017-03-01 20:52:37,544 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.22.2/jersey-client-2.22.2.pom
+2017-03-01 20:52:37,639 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/2.22.2/jersey-container-servlet-2.22.2.pom
+2017-03-01 20:52:37,806 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/2.22.2/jersey-container-servlet-2.22.2.pom
+2017-03-01 20:52:37,878 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/project/2.22.2/project-2.22.2.pom
+2017-03-01 20:52:38,049 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/project/2.22.2/project-2.22.2.pom
+2017-03-01 20:52:38,122 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.22.2/jersey-container-servlet-core-2.22.2.pom
+2017-03-01 20:52:38,320 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.22.2/jersey-container-servlet-core-2.22.2.pom
+2017-03-01 20:52:38,418 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.22.2/jersey-server-2.22.2.pom
+2017-03-01 20:52:38,610 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.22.2/jersey-server-2.22.2.pom
+2017-03-01 20:52:38,720 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.22.2/jersey-media-jaxb-2.22.2.pom
+2017-03-01 20:52:38,802 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.22.2/jersey-media-jaxb-2.22.2.pom
+2017-03-01 20:52:38,877 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/project/2.22.2/project-2.22.2.pom
+2017-03-01 20:52:38,954 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/project/2.22.2/project-2.22.2.pom
+2017-03-01 20:52:39,110 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.22.2/jersey-common-2.22.2.jar
+2017-03-01 20:52:39,962 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.22.2/jersey-common-2.22.2.jar
+2017-03-01 20:52:39,992 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.22.2/jersey-guava-2.22.2.jar
+2017-03-01 20:52:41,417 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.22.2/jersey-guava-2.22.2.jar
+2017-03-01 20:52:41,463 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.22.2/jersey-client-2.22.2.jar
+2017-03-01 20:52:41,702 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.22.2/jersey-client-2.22.2.jar
+2017-03-01 20:52:41,732 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/2.22.2/jersey-container-servlet-2.22.2.jar
+2017-03-01 20:52:42,017 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/2.22.2/jersey-container-servlet-2.22.2.jar
+2017-03-01 20:52:42,050 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.22.2/jersey-container-servlet-core-2.22.2.jar
+2017-03-01 20:52:42,313 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.22.2/jersey-container-servlet-core-2.22.2.jar
+2017-03-01 20:52:42,524 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.22.2/jersey-server-2.22.2.jar
+2017-03-01 20:52:45,065 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.22.2/jersey-server-2.22.2.jar
+2017-03-01 20:52:45,099 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.22.2/jersey-media-jaxb-2.22.2.jar
+2017-03-01 20:52:45,276 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.22.2/jersey-media-jaxb-2.22.2.jar
+2017-03-01 20:52:47,531 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter15:chapter15-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-samples\pom.xml.
+2017-03-01 20:52:47,613 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-jdk-http/2.22.2/jersey-container-jdk-http-2.22.2.pom
+2017-03-01 20:52:47,714 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-jdk-http/2.22.2/jersey-container-jdk-http-2.22.2.pom
+2017-03-01 20:52:47,818 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xmlunit/xmlunit/1.4/xmlunit-1.4.pom
+2017-03-01 20:52:47,887 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xmlunit/xmlunit/1.4/xmlunit-1.4.pom
+2017-03-01 20:52:48,092 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-jdk-http/2.22.2/jersey-container-jdk-http-2.22.2.jar
+2017-03-01 20:52:48,405 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-jdk-http/2.22.2/jersey-container-jdk-http-2.22.2.jar
+2017-03-01 20:52:48,434 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xmlunit/xmlunit/1.4/xmlunit-1.4.jar
+2017-03-01 20:52:48,708 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xmlunit/xmlunit/1.4/xmlunit-1.4.jar
+2017-03-01 20:52:49,500 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter15:chapter15-service:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-service\pom.xml.
+2017-03-01 20:52:50,099 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.16/maven-surefire-plugin-2.16.pom
+2017-03-01 20:52:50,168 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.16/maven-surefire-plugin-2.16.pom
+2017-03-01 20:52:50,278 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2017-03-01 20:52:50,343 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2017-03-01 20:52:51,480 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+2017-03-01 20:52:51,556 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+2017-03-01 20:52:51,706 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2017-03-01 20:52:52,134 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2017-03-01 20:52:54,522 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.4/maven-war-plugin-2.4.pom
+2017-03-01 20:52:54,606 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.4/maven-war-plugin-2.4.pom
+2017-03-01 20:52:54,990 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.pom
+2017-03-01 20:52:55,055 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.pom
+2017-03-01 20:52:55,228 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.pom
+2017-03-01 20:52:55,294 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.pom
+2017-03-01 20:52:55,897 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.pom
+2017-03-01 20:52:55,980 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.pom
+2017-03-01 20:52:56,163 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.5/commons-compress-1.5.pom
+2017-03-01 20:52:56,235 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.5/commons-compress-1.5.pom
+2017-03-01 20:52:56,369 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/28/commons-parent-28.pom
+2017-03-01 20:52:56,527 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/28/commons-parent-28.pom
+2017-03-01 20:52:56,598 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.2/xz-1.2.pom
+2017-03-01 20:52:56,660 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.2/xz-1.2.pom
+2017-03-01 20:52:56,756 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.pom
+2017-03-01 20:52:56,875 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.pom
+2017-03-01 20:52:56,942 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.2/xstream-parent-1.4.2.pom
+2017-03-01 20:52:57,016 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.2/xstream-parent-1.4.2.pom
+2017-03-01 20:52:57,210 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom
+2017-03-01 20:52:57,266 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom
+2017-03-01 20:52:58,003 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.jar
+2017-03-01 20:52:58,444 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.jar
+2017-03-01 20:52:58,503 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.jar
+2017-03-01 20:52:58,840 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.jar
+2017-03-01 20:52:58,890 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.5/commons-compress-1.5.jar
+2017-03-01 20:52:59,343 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.5/commons-compress-1.5.jar
+2017-03-01 20:52:59,393 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.2/xz-1.2.jar
+2017-03-01 20:52:59,612 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.2/xz-1.2.jar
+2017-03-01 20:52:59,661 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.jar
+2017-03-01 20:53:00,500 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.jar
+2017-03-01 20:53:00,545 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+2017-03-01 20:53:00,682 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+2017-03-01 20:53:00,709 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.jar
+2017-03-01 20:53:01,014 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.jar
+2017-03-01 20:53:03,863 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bsc/maven/maven-processor-plugin/2.2.4/maven-processor-plugin-2.2.4.pom
+2017-03-01 20:53:03,932 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bsc/maven/maven-processor-plugin/2.2.4/maven-processor-plugin-2.2.4.pom
+2017-03-01 20:53:16,614 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter09-samples/src/main/java
+2017-03-01 20:53:16,616 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter09-samples/src/main/resources
+2017-03-01 20:53:16,675 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter09-samples/src/test/java
+2017-03-01 20:53:20,442 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-service/src/main/java
+2017-03-01 20:53:20,442 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter15-service/src/main/resources
+2017-03-01 20:53:20,501 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-service/src/test/java
+2017-03-01 20:53:31,901 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-se/src/main/java
+2017-03-01 20:53:31,902 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-se/src/test/java
+2017-03-01 20:53:32,396 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-consumer/src/main/java
+2017-03-01 20:53:32,397 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-consumer/src/test/java
+2017-03-01 20:53:32,825 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter03-putting-together/src/main/java
+2017-03-01 20:53:32,827 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter03-putting-together/src/main/resources
+2017-03-01 20:53:32,871 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter03-putting-together/src/test/java
+2017-03-01 20:53:33,509 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter03-samples/src/main/java
+2017-03-01 20:53:33,510 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter03-samples/src/main/resources
+2017-03-01 20:53:33,563 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter03-samples/src/test/java
+2017-03-01 20:53:33,921 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter06-samples/src/main/java
+2017-03-01 20:53:33,922 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter06-samples/src/main/resources
+2017-03-01 20:53:34,026 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter06-samples/src/test/java
+2017-03-01 20:53:35,243 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-mdb/src/main/java
+2017-03-01 20:53:35,244 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-mdb/src/test/java
+2017-03-01 20:53:35,700 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter12-putting-together/src/main/java
+2017-03-01 20:53:35,734 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter12-putting-together/src/test/java
+2017-03-01 20:53:36,147 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-service/src/main/java
+2017-03-01 20:53:36,176 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-service/src/test/java
+2017-03-01 20:53:39,813 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter07-samples/src/main/java
+2017-03-01 20:53:39,814 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter07-samples/src/main/resources
+2017-03-01 20:53:39,860 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter07-samples/src/test/java
+2017-03-01 20:53:44,425 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter11-samples/src/main/java
+2017-03-01 20:53:44,426 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter11-samples/src/test/java
+2017-03-01 20:53:54,132 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter12-samples/src/main/java
+2017-03-01 20:53:54,133 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter12-samples/src/main/resources
+2017-03-01 20:53:54,182 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter12-samples/src/test/java
+2017-03-01 20:53:54,604 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-samples/src/main/java
+2017-03-01 20:53:54,605 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter15-samples/src/main/resources
+2017-03-01 20:53:54,663 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-samples/src/test/java
+2017-03-01 20:54:03,074 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter02-samples/src/main/java
+2017-03-01 20:54:03,075 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter02-samples/src/main/resources
+2017-03-01 20:54:03,115 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter02-samples/src/test/java
+2017-03-01 20:54:04,583 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-wsdl/src/main/java
+2017-03-01 20:54:04,609 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-wsdl/src/test/java
+2017-03-01 20:54:08,577 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-consumer/src/main/java
+2017-03-01 20:54:08,578 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-consumer/src/test/java
+2017-03-01 20:54:08,902 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-service/src/main/java
+2017-03-01 20:54:08,903 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter08-service/src/main/resources
+2017-03-01 20:54:08,948 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-service/src/test/java
+2017-03-01 20:54:10,113 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-consumer/src/main/java
+2017-03-01 20:54:10,115 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-consumer/src/test/java
+2017-03-01 20:54:10,452 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter02-putting-together/src/main/java
+2017-03-01 20:54:10,452 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter02-putting-together/src/main/resources
+2017-03-01 20:54:10,502 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter02-putting-together/src/test/java
+2017-03-01 20:54:10,506 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter02-putting-together/src/test/resources
+2017-03-01 20:54:11,046 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10-samples/src/main/java
+2017-03-01 20:54:11,047 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10-samples/src/test/java
+2017-03-01 20:54:13,597 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter11-putting-together/src/main/java
+2017-03-01 20:54:13,598 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter11-putting-together/src/main/resources
+2017-03-01 20:54:13,619 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter11-putting-together/src/test/java
+2017-03-01 20:54:16,694 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-samples/src/main/java
+2017-03-01 20:54:16,695 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-samples/src/test/java
+2017-03-01 20:54:17,129 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-ejb/src/main/java
+2017-03-01 20:54:17,130 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-ejb/src/test/java
+2017-03-01 20:54:20,337 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter04-putting-together/src/main/java
+2017-03-01 20:54:20,338 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter04-putting-together/src/main/resources
+2017-03-01 20:54:20,404 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter04-putting-together/src/test/java
+2017-03-01 20:54:21,602 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter05-samples/src/main/java
+2017-03-01 20:54:21,603 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter05-samples/src/main/resources
+2017-03-01 20:54:21,664 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter05-samples/src/test/java
+2017-03-01 20:54:23,191 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-samples/src/main/java
+2017-03-01 20:54:23,192 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter08-samples/src/main/resources
+2017-03-01 20:54:23,226 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-samples/src/test/java
+2017-03-01 20:54:24,586 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 42 project(s) in 322 sec
+2017-03-01 20:54:25,797 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-01 20:54:28,179 [Worker-43] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/lalaou03/AppData/Local/Temp/RemoteBundleDiscoveryStrategy3535454442452757090.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_8357873986310680881.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2017-03-01 20:54:28,181 [Worker-43] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2017-03-01 20:54:28,270 [Worker-43] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/lalaou03/AppData/Local/Temp/RemoteBundleDiscoveryStrategy3535454442452757090.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_8357873986310680881.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2017-03-01 20:54:28,272 [Worker-43] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2017-03-01 20:54:30,328 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:parent:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\pom.xml.
+2017-03-01 20:54:30,337 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter02:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter02\pom.xml.
+2017-03-01 20:54:33,616 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter02:chapter02-putting-together:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter02\chapter02-putting-together\pom.xml.
+2017-03-01 20:54:34,036 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter02:chapter02-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter02\chapter02-samples\pom.xml.
+2017-03-01 20:54:34,741 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter03:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter03\pom.xml.
+2017-03-01 20:54:35,053 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter03:chapter03-putting-together:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter03\chapter03-putting-together\pom.xml.
+2017-03-01 20:54:35,830 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter03:chapter03-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter03\chapter03-samples\pom.xml.
+2017-03-01 20:54:35,843 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter04:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter04\pom.xml.
+2017-03-01 20:54:36,052 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter04-putting-together:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter04\chapter04-putting-together\pom.xml.
+2017-03-01 20:54:36,124 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter05:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter05\pom.xml.
+2017-03-01 20:54:36,410 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter05:chapter05-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter05\chapter05-samples\pom.xml.
+2017-03-01 20:54:36,432 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter06:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter06\pom.xml.
+2017-03-01 20:54:36,717 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter06:chapter06-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter06\chapter06-samples\pom.xml.
+2017-03-01 20:54:36,788 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter07:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter07\pom.xml.
+2017-03-01 20:54:37,007 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter07:chapter07-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter07\chapter07-samples\pom.xml.
+2017-03-01 20:54:37,058 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter08:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\pom.xml.
+2017-03-01 20:54:37,281 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter08:chapter08-consumer:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-consumer\pom.xml.
+2017-03-01 20:54:37,561 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter08:chapter08-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-samples\pom.xml.
+2017-03-01 20:54:37,822 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter08:chapter08-service:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-service\pom.xml.
+2017-03-01 20:54:37,834 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter09:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter09\pom.xml.
+2017-03-01 20:54:38,023 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter09:chapter09-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter09\chapter09-samples\pom.xml.
+2017-03-01 20:54:38,036 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter10:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter10\pom.xml.
+2017-03-01 20:54:38,242 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter10:chapter10-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter10\chapter10-samples\pom.xml.
+2017-03-01 20:54:38,254 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter11:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\pom.xml.
+2017-03-01 20:54:38,445 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter11:chapter11-putting-together:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\chapter11-putting-together\pom.xml.
+2017-03-01 20:54:38,652 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter11:chapter11-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\chapter11-samples\pom.xml.
+2017-03-01 20:54:38,661 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter12:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\pom.xml.
+2017-03-01 20:54:38,858 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter12:chapter12-putting-together:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\chapter12-putting-together\pom.xml.
+2017-03-01 20:54:39,033 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter12:chapter12-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\chapter12-samples\pom.xml.
+2017-03-01 20:54:39,093 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter13:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\pom.xml.
+2017-03-01 20:54:39,302 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter13:chapter13-mdb:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-mdb\pom.xml.
+2017-03-01 20:54:39,485 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter13:chapter13-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-samples\pom.xml.
+2017-03-01 20:54:39,669 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter13:chapter13-se:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-se\pom.xml.
+2017-03-01 20:54:39,676 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter14:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\pom.xml.
+2017-03-01 20:54:39,904 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter14:chapter14-consumer:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-consumer\pom.xml.
+2017-03-01 20:54:40,107 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter14:chapter14-ejb:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-ejb\pom.xml.
+2017-03-01 20:54:40,378 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter14:chapter14-service:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-service\pom.xml.
+2017-03-01 20:54:40,568 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter14:chapter14-wsdl:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-wsdl\pom.xml.
+2017-03-01 20:54:40,624 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter15:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\pom.xml.
+2017-03-01 20:54:40,814 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter15:chapter15-consumer:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-consumer\pom.xml.
+2017-03-01 20:54:42,630 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter15:chapter15-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-samples\pom.xml.
+2017-03-01 20:54:42,907 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter15:chapter15-service:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-service\pom.xml.
+2017-03-01 20:55:05,921 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter02-putting-together/src/main/java
+2017-03-01 20:55:05,922 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter02-putting-together/src/main/resources
+2017-03-01 20:55:05,923 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter02-putting-together/src/test/java
+2017-03-01 20:55:05,924 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter02-putting-together/src/test/resources
+2017-03-01 20:55:06,537 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter02-samples/src/main/java
+2017-03-01 20:55:06,538 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter02-samples/src/main/resources
+2017-03-01 20:55:06,541 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter02-samples/src/test/java
+2017-03-01 20:55:06,711 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter03-putting-together/src/main/java
+2017-03-01 20:55:06,712 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter03-putting-together/src/main/resources
+2017-03-01 20:55:06,713 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter03-putting-together/src/test/java
+2017-03-01 20:55:06,864 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter03-samples/src/main/java
+2017-03-01 20:55:06,864 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter03-samples/src/main/resources
+2017-03-01 20:55:06,866 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter03-samples/src/test/java
+2017-03-01 20:55:07,356 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter04-putting-together/src/main/java
+2017-03-01 20:55:07,357 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter04-putting-together/src/main/resources
+2017-03-01 20:55:07,359 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter04-putting-together/src/test/java
+2017-03-01 20:55:07,730 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter05-samples/src/main/java
+2017-03-01 20:55:07,731 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter05-samples/src/main/resources
+2017-03-01 20:55:07,735 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter05-samples/src/test/java
+2017-03-01 20:55:07,978 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter06-samples/src/main/java
+2017-03-01 20:55:07,979 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter06-samples/src/main/resources
+2017-03-01 20:55:07,981 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter06-samples/src/test/java
+2017-03-01 20:55:08,228 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter07-samples/src/main/java
+2017-03-01 20:55:08,228 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter07-samples/src/main/resources
+2017-03-01 20:55:08,231 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter07-samples/src/test/java
+2017-03-01 20:55:09,295 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-consumer/src/main/java
+2017-03-01 20:55:09,296 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-consumer/src/test/java
+2017-03-01 20:55:09,513 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-samples/src/main/java
+2017-03-01 20:55:09,513 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter08-samples/src/main/resources
+2017-03-01 20:55:09,515 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-samples/src/test/java
+2017-03-01 20:55:09,740 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-service/src/main/java
+2017-03-01 20:55:09,740 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter08-service/src/main/resources
+2017-03-01 20:55:09,741 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-service/src/test/java
+2017-03-01 20:55:11,211 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter09-samples/src/main/java
+2017-03-01 20:55:11,212 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter09-samples/src/main/resources
+2017-03-01 20:55:11,214 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter09-samples/src/test/java
+2017-03-01 20:55:11,432 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10-samples/src/main/java
+2017-03-01 20:55:11,433 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10-samples/src/test/java
+2017-03-01 20:55:11,884 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter11-putting-together/src/main/java
+2017-03-01 20:55:11,885 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter11-putting-together/src/main/resources
+2017-03-01 20:55:11,886 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter11-putting-together/src/test/java
+2017-03-01 20:55:13,020 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter11-samples/src/main/java
+2017-03-01 20:55:13,021 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter11-samples/src/test/java
+2017-03-01 20:55:13,267 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter12-putting-together/src/main/java
+2017-03-01 20:55:13,269 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter12-putting-together/src/test/java
+2017-03-01 20:55:13,451 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter12-samples/src/main/java
+2017-03-01 20:55:13,451 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter12-samples/src/main/resources
+2017-03-01 20:55:13,453 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter12-samples/src/test/java
+2017-03-01 20:55:13,621 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-mdb/src/main/java
+2017-03-01 20:55:13,622 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-mdb/src/test/java
+2017-03-01 20:55:13,767 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-samples/src/main/java
+2017-03-01 20:55:13,768 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-samples/src/test/java
+2017-03-01 20:55:13,953 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-se/src/main/java
+2017-03-01 20:55:13,954 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-se/src/test/java
+2017-03-01 20:55:14,139 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-consumer/src/main/java
+2017-03-01 20:55:14,140 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-consumer/src/test/java
+2017-03-01 20:55:14,333 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-ejb/src/main/java
+2017-03-01 20:55:14,334 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-ejb/src/test/java
+2017-03-01 20:55:14,587 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-service/src/main/java
+2017-03-01 20:55:14,588 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-service/src/test/java
+2017-03-01 20:55:14,918 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-wsdl/src/main/java
+2017-03-01 20:55:14,920 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-wsdl/src/test/java
+2017-03-01 20:55:15,375 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-consumer/src/main/java
+2017-03-01 20:55:15,376 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-consumer/src/test/java
+2017-03-01 20:55:15,638 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-samples/src/main/java
+2017-03-01 20:55:15,639 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter15-samples/src/main/resources
+2017-03-01 20:55:15,641 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-samples/src/test/java
+2017-03-01 20:55:17,617 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-service/src/main/java
+2017-03-01 20:55:17,618 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter15-service/src/main/resources
+2017-03-01 20:55:17,620 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-service/src/test/java
+2017-03-01 20:55:23,198 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter07-samples
+2017-03-01 20:55:23,324 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter10-samples
+2017-03-01 20:55:23,352 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter11-putting-together
+2017-03-01 20:55:23,389 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter11-samples
+2017-03-01 20:55:23,564 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter14-ejb
+2017-03-01 20:55:23,588 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter14-service
+2017-03-01 20:55:23,780 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter14-wsdl
+2017-03-01 20:55:23,849 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter15-samples
+2017-03-01 20:55:23,889 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter15-service
+2017-03-01 20:55:23,901 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 58 sec
+2017-03-01 20:56:14,424 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:14,447 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 20:56:14,488 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:14,490 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 20:56:25,475 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:25,476 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 20:56:25,515 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:25,515 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter02\chapter02-samples\src\test\resources
+2017-03-01 20:56:27,123 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:27,125 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-03-01 20:56:27,161 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:27,162 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter03\chapter03-putting-together\src\test\resources
+2017-03-01 20:56:29,591 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:29,593 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-03-01 20:56:29,662 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:29,663 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter03\chapter03-samples\src\test\resources
+2017-03-01 20:56:30,312 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:30,316 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 20:56:30,376 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:30,376 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter04\chapter04-putting-together\src\test\resources
+2017-03-01 20:56:33,817 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:33,818 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 20:56:33,859 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:33,859 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter05\chapter05-samples\src\test\resources
+2017-03-01 20:56:36,337 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:36,339 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 20:56:36,372 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:36,372 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter06\chapter06-samples\src\test\resources
+2017-03-01 20:56:38,380 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:38,382 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 20:56:38,446 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:38,447 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter07\chapter07-samples\src\test\resources
+2017-03-01 20:56:38,448 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter07-samples
+2017-03-01 20:56:38,449 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter07-samples
+2017-03-01 20:56:38,464 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:39,422 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:39,423 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 20:56:39,443 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:39,444 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-samples\src\test\resources
+2017-03-01 20:56:40,482 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:40,483 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 20:56:40,499 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:40,499 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-service\src\test\resources
+2017-03-01 20:56:40,902 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:40,902 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-consumer\src\main\resources
+2017-03-01 20:56:40,905 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:40,905 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-consumer\src\test\resources
+2017-03-01 20:56:42,100 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:42,101 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 20:56:42,129 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:42,130 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter09\chapter09-samples\src\test\resources
+2017-03-01 20:56:42,753 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:42,756 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter10\chapter10-samples\src\main\resources
+2017-03-01 20:56:42,758 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:42,758 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter10\chapter10-samples\src\test\resources
+2017-03-01 20:56:42,759 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter10-samples
+2017-03-01 20:56:42,759 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter10-samples
+2017-03-01 20:56:42,767 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:43,085 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:43,086 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 20:56:43,109 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:43,109 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\chapter11-putting-together\src\test\resources
+2017-03-01 20:56:43,110 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter11-putting-together
+2017-03-01 20:56:43,110 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter11-putting-together
+2017-03-01 20:56:43,117 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:44,087 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:44,088 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\chapter11-samples\src\main\resources
+2017-03-01 20:56:44,090 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:44,090 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\chapter11-samples\src\test\resources
+2017-03-01 20:56:44,091 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter11-samples
+2017-03-01 20:56:44,091 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter11-samples
+2017-03-01 20:56:44,097 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:44,496 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:44,496 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\chapter12-putting-together\src\main\resources
+2017-03-01 20:56:44,502 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:44,502 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\chapter12-putting-together\src\test\resources
+2017-03-01 20:56:52,733 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:52,734 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-03-01 20:56:52,825 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:52,826 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\chapter12-samples\src\test\resources
+2017-03-01 20:56:54,564 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:54,564 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-mdb\src\main\resources
+2017-03-01 20:56:54,568 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:54,568 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-mdb\src\test\resources
+2017-03-01 20:56:55,345 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:55,345 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-samples\src\main\resources
+2017-03-01 20:56:55,348 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:55,349 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-samples\src\test\resources
+2017-03-01 20:56:55,619 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:55,619 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-se\src\main\resources
+2017-03-01 20:56:55,622 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:55,622 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-se\src\test\resources
+2017-03-01 20:56:55,931 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:55,931 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-consumer\src\main\resources
+2017-03-01 20:56:55,934 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:55,935 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-consumer\src\test\resources
+2017-03-01 20:56:56,451 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:56,451 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-ejb\src\main\resources
+2017-03-01 20:56:56,454 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:56,455 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-ejb\src\test\resources
+2017-03-01 20:56:56,456 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter14-ejb
+2017-03-01 20:56:56,456 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter14-ejb
+2017-03-01 20:56:56,466 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:58,203 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:58,203 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-service\src\main\resources
+2017-03-01 20:56:58,205 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:56:58,206 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-service\src\test\resources
+2017-03-01 20:56:58,206 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter14-service
+2017-03-01 20:56:58,206 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter14-service
+2017-03-01 20:56:58,213 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:57:26,364 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:57:26,365 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-wsdl\src\main\resources
+2017-03-01 20:57:26,368 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:57:26,368 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-wsdl\src\test\resources
+2017-03-01 20:57:26,369 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter14-wsdl
+2017-03-01 20:57:26,369 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter14-wsdl
+2017-03-01 20:57:26,378 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:57:28,205 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:57:28,205 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-consumer\src\main\resources
+2017-03-01 20:57:28,207 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:57:28,208 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-consumer\src\test\resources
+2017-03-01 20:57:31,474 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:57:31,475 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 20:57:31,496 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:57:31,496 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-samples\src\test\resources
+2017-03-01 20:57:31,497 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter15-samples
+2017-03-01 20:57:31,497 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter15-samples
+2017-03-01 20:57:31,504 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:57:33,499 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:57:33,500 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 20:57:33,524 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 20:57:33,524 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-service\src\test\resources
+2017-03-01 20:57:33,525 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter15-service
+2017-03-01 20:57:33,525 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter15-service
+2017-03-01 20:57:33,535 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
