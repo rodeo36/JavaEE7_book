@@ -1195,3 +1195,371 @@
 2017-03-01 21:23:22,114 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-ejb\src\main\resources
 2017-03-01 21:23:22,116 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-03-01 21:23:22,116 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-ejb\src\test\resources
+2017-03-01 21:30:01,981 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-01 21:30:05,734 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:parent:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\pom.xml.
+2017-03-01 21:30:05,738 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter02:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter02\pom.xml.
+2017-03-01 21:30:11,516 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter02:chapter02-putting-together:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter02\chapter02-putting-together\pom.xml.
+2017-03-01 21:30:11,757 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter02:chapter02-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter02\chapter02-samples\pom.xml.
+2017-03-01 21:30:12,559 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter03:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter03\pom.xml.
+2017-03-01 21:30:12,782 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter03:chapter03-putting-together:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter03\chapter03-putting-together\pom.xml.
+2017-03-01 21:30:13,604 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter03:chapter03-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter03\chapter03-samples\pom.xml.
+2017-03-01 21:30:13,616 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter04:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter04\pom.xml.
+2017-03-01 21:30:13,794 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter04-putting-together:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter04\chapter04-putting-together\pom.xml.
+2017-03-01 21:30:13,869 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter05:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter05\pom.xml.
+2017-03-01 21:30:14,037 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter05:chapter05-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter05\chapter05-samples\pom.xml.
+2017-03-01 21:30:14,049 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter06:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter06\pom.xml.
+2017-03-01 21:30:14,265 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter06:chapter06-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter06\chapter06-samples\pom.xml.
+2017-03-01 21:30:14,351 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter07:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter07\pom.xml.
+2017-03-01 21:30:14,529 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter07:chapter07-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter07\chapter07-samples\pom.xml.
+2017-03-01 21:30:14,541 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter08:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\pom.xml.
+2017-03-01 21:30:14,729 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter08:chapter08-consumer:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-consumer\pom.xml.
+2017-03-01 21:30:14,943 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter08:chapter08-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-samples\pom.xml.
+2017-03-01 21:30:15,187 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter08:chapter08-service:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-service\pom.xml.
+2017-03-01 21:30:15,195 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter09:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter09\pom.xml.
+2017-03-01 21:30:15,357 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter09:chapter09-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter09\chapter09-samples\pom.xml.
+2017-03-01 21:30:15,367 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter10:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter10\pom.xml.
+2017-03-01 21:30:15,530 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter10:chapter10-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter10\chapter10-samples\pom.xml.
+2017-03-01 21:30:15,537 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter11:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\pom.xml.
+2017-03-01 21:30:15,778 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter11:chapter11-putting-together:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\chapter11-putting-together\pom.xml.
+2017-03-01 21:30:16,015 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter11:chapter11-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\chapter11-samples\pom.xml.
+2017-03-01 21:30:16,022 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter12:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\pom.xml.
+2017-03-01 21:30:16,228 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter12:chapter12-putting-together:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\chapter12-putting-together\pom.xml.
+2017-03-01 21:30:16,436 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter12:chapter12-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\chapter12-samples\pom.xml.
+2017-03-01 21:30:16,485 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter13:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\pom.xml.
+2017-03-01 21:30:16,692 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter13:chapter13-mdb:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-mdb\pom.xml.
+2017-03-01 21:30:16,973 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter13:chapter13-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-samples\pom.xml.
+2017-03-01 21:30:17,233 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter13:chapter13-se:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-se\pom.xml.
+2017-03-01 21:30:17,241 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter14:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\pom.xml.
+2017-03-01 21:30:17,506 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter14:chapter14-consumer:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-consumer\pom.xml.
+2017-03-01 21:30:17,831 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter14:chapter14-ejb:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-ejb\pom.xml.
+2017-03-01 21:30:18,231 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter14:chapter14-service:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-service\pom.xml.
+2017-03-01 21:30:18,623 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter14:chapter14-wsdl:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-wsdl\pom.xml.
+2017-03-01 21:30:18,641 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.agoncal.book.javaee7:chapter15:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\pom.xml.
+2017-03-01 21:30:18,953 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter15:chapter15-consumer:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-consumer\pom.xml.
+2017-03-01 21:30:20,818 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter15:chapter15-samples:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-samples\pom.xml.
+2017-03-01 21:30:21,103 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.agoncal.book.javaee7.chapter15:chapter15-service:1.0 @ F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-service\pom.xml.
+2017-03-01 21:30:36,077 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter02-putting-together/src/main/java
+2017-03-01 21:30:36,078 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter02-putting-together/src/main/resources
+2017-03-01 21:30:36,079 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter02-putting-together/src/test/java
+2017-03-01 21:30:36,080 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter02-putting-together/src/test/resources
+2017-03-01 21:30:36,230 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter02-samples/src/main/java
+2017-03-01 21:30:36,230 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter02-samples/src/main/resources
+2017-03-01 21:30:36,232 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter02-samples/src/test/java
+2017-03-01 21:30:36,418 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter03-putting-together/src/main/java
+2017-03-01 21:30:36,419 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter03-putting-together/src/main/resources
+2017-03-01 21:30:36,420 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter03-putting-together/src/test/java
+2017-03-01 21:30:36,559 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter03-samples/src/main/java
+2017-03-01 21:30:36,560 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter03-samples/src/main/resources
+2017-03-01 21:30:36,562 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter03-samples/src/test/java
+2017-03-01 21:30:36,705 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter04-putting-together/src/main/java
+2017-03-01 21:30:36,705 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter04-putting-together/src/main/resources
+2017-03-01 21:30:36,707 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter04-putting-together/src/test/java
+2017-03-01 21:30:37,299 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter05-samples/src/main/java
+2017-03-01 21:30:37,299 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter05-samples/src/main/resources
+2017-03-01 21:30:37,303 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter05-samples/src/test/java
+2017-03-01 21:30:37,471 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter06-samples/src/main/java
+2017-03-01 21:30:37,471 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter06-samples/src/main/resources
+2017-03-01 21:30:37,473 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter06-samples/src/test/java
+2017-03-01 21:30:37,665 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter07-samples/src/main/java
+2017-03-01 21:30:37,665 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter07-samples/src/main/resources
+2017-03-01 21:30:37,666 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter07-samples/src/test/java
+2017-03-01 21:30:38,256 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-consumer/src/main/java
+2017-03-01 21:30:38,258 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-consumer/src/test/java
+2017-03-01 21:30:38,431 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-samples/src/main/java
+2017-03-01 21:30:38,431 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter08-samples/src/main/resources
+2017-03-01 21:30:38,432 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-samples/src/test/java
+2017-03-01 21:30:38,607 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-service/src/main/java
+2017-03-01 21:30:38,608 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter08-service/src/main/resources
+2017-03-01 21:30:38,609 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter08-service/src/test/java
+2017-03-01 21:30:38,815 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter09-samples/src/main/java
+2017-03-01 21:30:38,816 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter09-samples/src/main/resources
+2017-03-01 21:30:38,817 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter09-samples/src/test/java
+2017-03-01 21:30:39,018 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10-samples/src/main/java
+2017-03-01 21:30:39,019 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter10-samples/src/test/java
+2017-03-01 21:30:39,368 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter11-putting-together/src/main/java
+2017-03-01 21:30:39,368 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter11-putting-together/src/main/resources
+2017-03-01 21:30:39,369 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter11-putting-together/src/test/java
+2017-03-01 21:30:39,692 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter11-samples/src/main/java
+2017-03-01 21:30:39,692 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter11-samples/src/test/java
+2017-03-01 21:30:40,087 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter12-putting-together/src/main/java
+2017-03-01 21:30:40,088 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter12-putting-together/src/test/java
+2017-03-01 21:30:40,203 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter12-samples/src/main/java
+2017-03-01 21:30:40,204 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter12-samples/src/main/resources
+2017-03-01 21:30:40,205 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter12-samples/src/test/java
+2017-03-01 21:30:42,894 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-mdb/src/main/java
+2017-03-01 21:30:42,894 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-mdb/src/test/java
+2017-03-01 21:30:43,088 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-samples/src/main/java
+2017-03-01 21:30:43,089 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-samples/src/test/java
+2017-03-01 21:30:43,259 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-se/src/main/java
+2017-03-01 21:30:43,259 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter13-se/src/test/java
+2017-03-01 21:30:45,760 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-consumer/src/main/java
+2017-03-01 21:30:45,805 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-consumer/target/generated-sources/wsimport
+2017-03-01 21:30:45,805 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-consumer/src/test/java
+2017-03-01 21:30:46,015 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-ejb/src/main/java
+2017-03-01 21:30:46,056 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-ejb/target/generated-sources/wsimport
+2017-03-01 21:30:46,056 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-ejb/src/test/java
+2017-03-01 21:30:46,915 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-service/src/main/java
+2017-03-01 21:30:46,916 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-service/src/test/java
+2017-03-01 21:30:47,261 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-wsdl/src/main/java
+2017-03-01 21:30:47,262 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter14-wsdl/src/test/java
+2017-03-01 21:30:47,603 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-consumer/src/main/java
+2017-03-01 21:30:47,604 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-consumer/src/test/java
+2017-03-01 21:30:47,844 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-samples/src/main/java
+2017-03-01 21:30:47,845 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter15-samples/src/main/resources
+2017-03-01 21:30:47,847 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-samples/src/test/java
+2017-03-01 21:30:48,586 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-service/src/main/java
+2017-03-01 21:30:48,587 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /chapter15-service/src/main/resources
+2017-03-01 21:30:48,588 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /chapter15-service/src/test/java
+2017-03-01 21:30:52,486 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter07-samples
+2017-03-01 21:30:52,639 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter10-samples
+2017-03-01 21:30:52,682 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter11-putting-together
+2017-03-01 21:30:52,721 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter11-samples
+2017-03-01 21:30:53,024 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter14-ejb
+2017-03-01 21:30:53,060 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter14-service
+2017-03-01 21:30:53,090 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter14-wsdl
+2017-03-01 21:30:53,161 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter15-samples
+2017-03-01 21:30:53,218 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for chapter15-service
+2017-03-01 21:30:53,236 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 51 sec
+2017-03-01 21:31:22,842 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:22,844 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 21:31:22,879 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:22,880 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 21:31:29,420 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:29,421 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 21:31:29,496 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:29,497 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter02\chapter02-samples\src\test\resources
+2017-03-01 21:31:30,918 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:30,919 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-03-01 21:31:30,992 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:30,993 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter03\chapter03-putting-together\src\test\resources
+2017-03-01 21:31:32,707 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:32,708 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-03-01 21:31:32,779 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:32,779 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter03\chapter03-samples\src\test\resources
+2017-03-01 21:31:33,364 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:33,365 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 21:31:33,398 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:33,399 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter04\chapter04-putting-together\src\test\resources
+2017-03-01 21:31:36,107 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:36,108 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 21:31:36,142 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:36,142 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter05\chapter05-samples\src\test\resources
+2017-03-01 21:31:37,774 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:37,775 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 21:31:37,806 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:37,806 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter06\chapter06-samples\src\test\resources
+2017-03-01 21:31:39,303 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:39,304 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 21:31:39,336 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:39,336 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter07\chapter07-samples\src\test\resources
+2017-03-01 21:31:39,337 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter07-samples
+2017-03-01 21:31:39,337 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter07-samples
+2017-03-01 21:31:39,348 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:40,331 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:40,332 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 21:31:40,349 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:40,350 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-samples\src\test\resources
+2017-03-01 21:31:41,774 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:41,775 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 21:31:41,800 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:41,801 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-service\src\test\resources
+2017-03-01 21:31:42,349 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:42,349 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-consumer\src\main\resources
+2017-03-01 21:31:42,351 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:42,351 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-consumer\src\test\resources
+2017-03-01 21:31:43,378 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:43,379 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 21:31:43,398 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:43,398 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter09\chapter09-samples\src\test\resources
+2017-03-01 21:31:44,010 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:44,010 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter10\chapter10-samples\src\main\resources
+2017-03-01 21:31:44,011 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:44,012 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter10\chapter10-samples\src\test\resources
+2017-03-01 21:31:44,012 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter10-samples
+2017-03-01 21:31:44,012 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter10-samples
+2017-03-01 21:31:44,018 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:44,381 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:44,382 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 21:31:44,408 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:44,408 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\chapter11-putting-together\src\test\resources
+2017-03-01 21:31:44,409 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter11-putting-together
+2017-03-01 21:31:44,409 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter11-putting-together
+2017-03-01 21:31:44,416 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:45,607 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:45,608 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\chapter11-samples\src\main\resources
+2017-03-01 21:31:45,610 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:45,611 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\chapter11-samples\src\test\resources
+2017-03-01 21:31:45,611 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter11-samples
+2017-03-01 21:31:45,611 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter11-samples
+2017-03-01 21:31:45,620 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:46,319 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:46,320 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\chapter12-putting-together\src\main\resources
+2017-03-01 21:31:46,325 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:46,325 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\chapter12-putting-together\src\test\resources
+2017-03-01 21:31:49,939 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:49,940 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-03-01 21:31:50,050 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:50,050 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\chapter12-samples\src\test\resources
+2017-03-01 21:31:50,413 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:50,413 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-mdb\src\main\resources
+2017-03-01 21:31:50,415 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:50,415 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-mdb\src\test\resources
+2017-03-01 21:31:51,194 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:51,195 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-samples\src\main\resources
+2017-03-01 21:31:51,198 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:51,198 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-samples\src\test\resources
+2017-03-01 21:31:51,946 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:51,946 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-se\src\main\resources
+2017-03-01 21:31:51,948 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:51,948 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-se\src\test\resources
+2017-03-01 21:31:52,884 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:52,884 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-consumer\src\main\resources
+2017-03-01 21:31:52,885 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:52,886 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-consumer\src\test\resources
+2017-03-01 21:31:53,728 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:53,730 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-ejb\src\main\resources
+2017-03-01 21:31:53,731 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:53,732 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-ejb\src\test\resources
+2017-03-01 21:31:53,732 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter14-ejb
+2017-03-01 21:31:53,732 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter14-ejb
+2017-03-01 21:31:53,739 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:54,492 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:54,493 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-service\src\main\resources
+2017-03-01 21:31:54,661 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:54,662 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-service\src\test\resources
+2017-03-01 21:31:54,662 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter14-service
+2017-03-01 21:31:54,662 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter14-service
+2017-03-01 21:31:54,669 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:56,126 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:56,126 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-wsdl\src\main\resources
+2017-03-01 21:31:56,129 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:56,129 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-wsdl\src\test\resources
+2017-03-01 21:31:56,130 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter14-wsdl
+2017-03-01 21:31:56,130 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter14-wsdl
+2017-03-01 21:31:56,138 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:58,800 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:58,800 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-consumer\src\main\resources
+2017-03-01 21:31:58,801 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:31:58,802 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-consumer\src\test\resources
+2017-03-01 21:32:01,202 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:32:01,203 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 21:32:01,224 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:32:01,225 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-samples\src\test\resources
+2017-03-01 21:32:01,225 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter15-samples
+2017-03-01 21:32:01,225 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter15-samples
+2017-03-01 21:32:01,232 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:32:01,672 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:32:01,673 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 21:32:01,687 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:32:01,687 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-service\src\test\resources
+2017-03-01 21:32:01,688 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of chapter15-service
+2017-03-01 21:32:01,688 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for chapter15-service
+2017-03-01 21:32:01,694 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:50:54,420 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:50:54,448 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 21:50:54,502 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:50:54,504 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 21:51:02,066 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:02,069 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 21:51:02,130 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:02,130 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter02\chapter02-samples\src\test\resources
+2017-03-01 21:51:03,596 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:03,598 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-03-01 21:51:03,686 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:03,687 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter03\chapter03-putting-together\src\test\resources
+2017-03-01 21:51:37,417 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:37,418 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-03-01 21:51:37,513 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:37,514 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter03\chapter03-samples\src\test\resources
+2017-03-01 21:51:38,655 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:38,656 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 21:51:38,703 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:38,703 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter04\chapter04-putting-together\src\test\resources
+2017-03-01 21:51:44,161 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:44,165 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 21:51:44,229 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:44,229 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter05\chapter05-samples\src\test\resources
+2017-03-01 21:51:47,100 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:47,102 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 21:51:47,185 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:47,186 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter06\chapter06-samples\src\test\resources
+2017-03-01 21:51:53,119 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:53,121 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 21:51:53,161 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:53,162 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter07\chapter07-samples\src\test\resources
+2017-03-01 21:51:57,213 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:57,214 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 21:51:57,226 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:57,227 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-samples\src\test\resources
+2017-03-01 21:51:58,362 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:58,363 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 21:51:58,382 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:58,382 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-service\src\test\resources
+2017-03-01 21:51:58,828 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:58,828 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-consumer\src\main\resources
+2017-03-01 21:51:58,832 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:58,832 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter08\chapter08-consumer\src\test\resources
+2017-03-01 21:51:59,898 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:59,900 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-01 21:51:59,924 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:51:59,926 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter09\chapter09-samples\src\test\resources
+2017-03-01 21:52:02,179 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:02,179 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter10\chapter10-samples\src\main\resources
+2017-03-01 21:52:02,179 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:02,179 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter10\chapter10-samples\src\test\resources
+2017-03-01 21:52:03,516 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:03,516 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 21:52:03,548 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:03,548 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\chapter11-putting-together\src\test\resources
+2017-03-01 21:52:04,350 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:04,350 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\chapter11-samples\src\main\resources
+2017-03-01 21:52:04,366 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:04,366 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter11\chapter11-samples\src\test\resources
+2017-03-01 21:52:04,802 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:04,802 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\chapter12-putting-together\src\main\resources
+2017-03-01 21:52:04,806 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:04,807 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\chapter12-putting-together\src\test\resources
+2017-03-01 21:52:08,129 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:08,132 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-03-01 21:52:08,260 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:08,260 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter12\chapter12-samples\src\test\resources
+2017-03-01 21:52:09,502 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:09,503 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-mdb\src\main\resources
+2017-03-01 21:52:09,506 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:09,507 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-mdb\src\test\resources
+2017-03-01 21:52:10,311 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:10,312 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-samples\src\main\resources
+2017-03-01 21:52:10,315 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:10,316 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-samples\src\test\resources
+2017-03-01 21:52:10,720 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:10,720 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-se\src\main\resources
+2017-03-01 21:52:10,724 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:10,724 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter13\chapter13-se\src\test\resources
+2017-03-01 21:52:16,059 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:16,059 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-consumer\src\main\resources
+2017-03-01 21:52:16,062 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:16,063 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-consumer\src\test\resources
+2017-03-01 21:52:16,835 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:16,836 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-ejb\src\main\resources
+2017-03-01 21:52:16,839 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:16,840 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-ejb\src\test\resources
+2017-03-01 21:52:20,109 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:20,109 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-service\src\main\resources
+2017-03-01 21:52:20,382 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:20,382 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-service\src\test\resources
+2017-03-01 21:52:22,371 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:22,372 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-wsdl\src\main\resources
+2017-03-01 21:52:22,379 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:22,379 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter14\chapter14-wsdl\src\test\resources
+2017-03-01 21:52:24,632 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:24,632 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-consumer\src\main\resources
+2017-03-01 21:52:24,634 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:24,635 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-consumer\src\test\resources
+2017-03-01 21:52:28,005 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:28,006 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 21:52:28,028 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:28,028 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-samples\src\test\resources
+2017-03-01 21:52:29,612 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:29,614 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-01 21:52:29,637 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 21:52:29,637 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\JAVA\JAVAEE\WorkspaceBookEE7\agoncal-book-javaee7-master\chapter15\chapter15-service\src\test\resources
